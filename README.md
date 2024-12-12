@@ -1,5 +1,7 @@
 # MistralChatBotUpdated
 
+![Work in Progress](https://img.shields.io/badge/status-in%20progress-orange)
+
 **MistralChatBotUpdated** is a ChatBot that utilizes Streamlit as the graphical user interface (GUI) and integrates with the [Mistral API](https://docs.mistral.ai/api/) as its large language model (LLM). While there are several examples available, many rely on outdated versions of the Mistralai library (e.g., version 0.4.2). This project updates the libraries and provides an up-to-date implementation.
 
 ### Related Examples
