@@ -1,6 +1,10 @@
 # Desciption
 
-MinistralChat is a ChatBot that uses Streamlit as the GUI and Ministral API as the Agent.  There are many exemples outthere but some os them use the 0.4.2 mistralai library. So, I'm building one more to update the librarys.
+**MinistralChat** is a ChatBot that uses Streamlit as the GUI and Ministral API as the Agent.  There are many exemples outthere but some os them use the 0.4.2 mistralai library. So, I'm building one more to update the librarys.
+
+**What's Mistral AI?**
+
+It's a french company that build open source models for developers and small companys.
 
 ## Usage
 
@@ -8,11 +12,13 @@ MinistralChat is a ChatBot that uses Streamlit as the GUI and Ministral API as t
 
 In order to use the application, you need follows this steps:
 
+1. Get Ministral API
+2. Put the API key on you .env file
 1. Fork this repo
 2. Acess the src file
 3. Run: `!pip install -r packages.txt`
 
-Once we have done this, you can alreay run the streamlit server, like this: `streamlit run chat.py`
+Once we have done this, you can alreay run the streamlit server, like this: `streamlit run minstral_chatbot.py.py`
 
 ## Contributing
 
