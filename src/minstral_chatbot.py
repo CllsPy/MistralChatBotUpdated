@@ -30,8 +30,21 @@ def get_mistral_response(client, messages):
 
 # Streamlit App
 def main():
-    st.title("LIAE CHATBOT")
+    st.title("Friendly: Your Mistral ChatBot")
+    st.write("Hey, let's chat. What do you like to talk about?")
+
+    with st.sidebar:
+        st.title("About")
+        st.markdown("""MistralChatBotUpdated is a 
+                    ChatBot that utilizes Streamlit as the graphical 
+                    user interface (GUI) and integrates with the Mistral 
+                    API as its large language model (LLM).""")
+        
+        
+        st.markdown("---")
+        st.markdown(f' made by [CLL](https://github.com/CllsPy)')
     
+
     # Initialize session state for chat history
     if 'messages' not in st.session_state:
         st.session_state.messages = []
@@ -47,7 +60,7 @@ def main():
             st.markdown(message["content"])
     
     # User input
-    if prompt := st.chat_input("What would you like to chat about?"):
+    if prompt := st.chat_input("Sobre o que quer conversar?"):
         # Add user message to chat history
         st.session_state.messages.append({"role": "user", "content": prompt})
         
