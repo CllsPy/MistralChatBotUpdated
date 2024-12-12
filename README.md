@@ -20,7 +20,7 @@ Some exemples, out there:
 
 In order to use the application, you need follows this steps:
 
-1. Get Ministral API [HERE](https://docs.mistral.ai/api/)
+1. Get Mistral API [HERE](https://docs.mistral.ai/api/)
 2. Put the API key on you .env file
 1. Fork this repo
 2. Acess the src file
