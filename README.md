@@ -18,7 +18,8 @@
 
 
 ## Usage
-![Uploading streamlit-minstral_chatbot-2024-12-12-17-12-35.gif…]()
+![streamlit-minstral_chatbot-2024-12-12-17-12-35](https://github.com/user-attachments/assets/15d87b4b-0cf9-476f-a53f-ca7c9197d3aa)
+
 
 
 ### Requirements
