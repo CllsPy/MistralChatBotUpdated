@@ -9,14 +9,14 @@ Some exemples, out there:
 - [Build an AI Chatbot with MistralAI + Streamlit](https://medium.com/bitgrit-data-science-publication/build-an-ai-chatbot-with-mistralai-streamlit-4f58d7fe4a22)
 - [How to build AI ChatBots with Mistral and Llama2](https://www.anaconda.com/blog/how-to-build-ai-chatbots-with-mistral-and-llama2)
 
-**What's Mistral AI?**
+## What's Mistral AI?
 
 [Mistral AI](https://mistral.ai/fr/). It's a french company that build open source models for developers and small companys. You can understand Mistral AI as an open version of [Openai](https://openai.com/).
 
 
-## Usage
+# Usage
 
-### Requirements
+## Requirements
 
 In order to use the application, you need follows this steps:
 
@@ -28,13 +28,13 @@ In order to use the application, you need follows this steps:
 
 Once we have done this, you can alreay run the streamlit server, like this: `streamlit run minstral_chatbot.py.py`
 
-## Contributing
+# Contributing
 
 Pull requests are welcome. For major changes, please open an issue first
 to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
 
-## License
+# License
 
 [MIT](https://choosealicense.com/licenses/mit/)
