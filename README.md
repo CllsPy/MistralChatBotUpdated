@@ -1,5 +1,7 @@
 # Desciption
 
+![image](https://github.com/user-attachments/assets/eb0d8128-d73e-45b8-92b8-d922878d011e)
+
 **MistralChatBotUpdated** is a ChatBot that uses Streamlit as the GUI and [Mistral API](https://docs.mistral.ai/api/) as the LLM.  There are many exemples outthere but some os them use the 0.4.2 mistralai library. So, I'm building one more to update the librarys.
 
 Some exemples, out there:
