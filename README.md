@@ -18,6 +18,8 @@
 
 
 ## Usage
+![Uploading streamlit-minstral_chatbot-2024-12-12-17-12-35.gif…]()
+
 
 ### Requirements
 
