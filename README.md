@@ -11,7 +11,7 @@ Some exemples, out there:
 
 **What's Mistral AI?**
 
-[Mistral AI](https://mistral.ai/fr/). It's a french company that build open source models for developers and small companys. 
+[Mistral AI](https://mistral.ai/fr/). It's a french company that build open source models for developers and small companys. You can understand Mistral AI as an open version of [Openai](https://openai.com/).
 
 
 ## Usage
