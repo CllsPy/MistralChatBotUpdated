@@ -4,9 +4,7 @@
 
 Some exemples, out there:
 
-- [Build an AI Chatbot with MistralAI + Streamlit](Build an AI Chatbot with MistralAI + Streamlit
-)
-
+- [Build an AI Chatbot with MistralAI + Streamlit](Build an AI Chatbot with MistralAI + Streamlit)
 - [How to build AI ChatBots with Mistral and Llama2](https://www.anaconda.com/blog/how-to-build-ai-chatbots-with-mistral-and-llama2)
 
 **What's Mistral AI?**
