@@ -7,13 +7,13 @@
 - [Build an AI Chatbot with MistralAI + Streamlit](https://medium.com/bitgrit-data-science-publication/build-an-ai-chatbot-with-mistralai-streamlit-4f58d7fe4a22)
 - [How to Build AI ChatBots with Mistral and Llama2](https://www.anaconda.com/blog/how-to-build-ai-chatbots-with-mistral-and-llama2)
 
----
+
 
 ## What Is Mistral AI?
 
 [Mistral AI](https://mistral.ai/fr/) is a French company focused on developing open-source models for developers and small businesses. You can think of Mistral AI as an open-source alternative to [OpenAI](https://openai.com/).
 
----
+
 
 ## Usage
 
@@ -35,7 +35,7 @@ Once all dependencies are installed, you can start the Streamlit server by runni
 streamlit run mistral_chatbot.py
 ```
 
----
+
 
 ## Contributing
 
@@ -43,7 +43,7 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 Make sure to update any tests as needed to reflect your changes.
 
----
+
 
 ## License
 
