@@ -26,11 +26,12 @@
 
 To use the application, follow these steps:
 
-1. Obtain your Mistral API key by visiting [Mistral API Documentation](https://docs.mistral.ai/api/).
-2. Save the API key in your `.env` file.
-3. Fork this repository.
+1. Fork this repository.
+2. Obtain your Mistral API key by visiting [Mistral API Documentation](https://docs.mistral.ai/api/).
+3. Save the API key in your `.env` file.
 4. Navigate to the `src` folder.
 5. Install dependencies by running:
+   
    ```bash
    pip install -r packages.txt
    ```
